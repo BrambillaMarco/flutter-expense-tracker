@@ -49,16 +49,45 @@ lib/
 
 1. Clona il repository:
 
-```bash
-git clone https://github.com/BrambillaMarco/flutter-expense-tracker
-cd flutter-expense-tracker
+      ```bash
+      git clone https://github.com/BrambillaMarco/flutter-expense-tracker
+      cd flutter-expense-tracker
+
 
 2. Assicurati di avere Flutter installato e configurato:
-https://docs.flutter.dev/get-started
+Guida ufficiale Flutter: https://docs.flutter.dev/get-started
 
 3. Avvia l'app:
+
 flutter run
 
 ---
 
 ## Screenshot
+
+<img width="500" height="1055" alt="Screenshot_1758801134" src="https://github.com/user-attachments/assets/f11ad0ee-97ff-4d02-b0d1-01bad9a75e44" />
+
+<img width="500" height="1055" alt="Screenshot_1758801333" src="https://github.com/user-attachments/assets/6d621a8e-f990-445b-afca-90014152cfac" />
+
+<img width="500" height="1055" alt="Screenshot_1758801345" src="https://github.com/user-attachments/assets/b922b6bf-3643-406d-9a46-104a882eebd3" />
+
+---
+
+## Cosa ho imparato
+
+-Gestire lo stato con StatefulWidget e setState.
+
+-Suddividere la UI in widget modulari e riutilizzabili.
+
+-Implementare layout responsive per diverse dimensioni dello schermo.
+
+-Gestire input utente e validazioni.
+
+-Visualizzare dati con grafici e rappresentazioni dinamiche.
+
+-Implementare undo per la rimozione di elementi nella lista.
+
+
+
+
+
